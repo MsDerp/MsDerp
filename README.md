@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MsDerp<br>📫 How to reach me Ms. Derp#5907<br>💞️ Always intrested in improving  
+👋 Hi, I’m @MsDerp<br>📫 How to reach me Ms. Derp#5907<br>🌱 Currently working on personal projects<br>💞️ Always intrested in improving  
 
 
 # 💻 Tech Stack:
