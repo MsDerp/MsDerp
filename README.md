@@ -30,7 +30,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yplnx81epexrgsjr9fzns2qda)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yplnx81epexrgsjr9fzns2qda&count={3})
 
 ###
 
