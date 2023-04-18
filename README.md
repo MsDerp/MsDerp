@@ -27,10 +27,7 @@
 ###
 
 
-###
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yplnx81epexrgsjr9fzns2qda&count=1) />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yplnx81epexrgsjr9fzns2qda&count=1) 
 
 
 ###
