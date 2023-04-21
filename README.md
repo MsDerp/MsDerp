@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋! I'm MsDerp.</h1>
-<h2 align="center">Programmer</h2>
 ###
 
 <div align="center">
